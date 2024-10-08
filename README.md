@@ -16,14 +16,14 @@ Siempre estoy buscando aprender nuevas herramientas y mejorar mis habilidades en
 
 📫 Puedes contactarme en [santiagociolfi@gmail.com](mailto:santiagociolfi@gmail.com).
 
-### Proyectos
+<h2 align="center" style="color: #ffff;">Proyectos</h2>
+<div align="center" style="background-color: #F8D866;">
+  <a href="https://github.com/SantiCiolfi/Proyecto_Java-FullStack"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SantiCiolfi&repo=Proyecto_Java-FullStack&theme=midnight-purple&icon_color=F8D866"></a>
+  <a href="https://github.com/SantiCiolfi/Proyecto-.net"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SantiCiolfi&repo=Proyecto-.net&theme=midnight-purple&icon_color=17202A"></a>
+</div>
 
-[Proyecto_Java-FullStack](https://github.com/SantiCiolfi/Proyecto_Java-FullStack)
-
-[Proyecto-.net](https://github.com/SantiCiolfi/Proyecto-.net)
-
-### Segundo año
-
-[Fundamentos-de-la-Organizacion-de-Datos](https://github.com/SantiCiolfi/Fundamentos-de-la-Organizacion-de-Datos)
-
-[Algoritmos-y-Estructuras-de-Datos](https://github.com/SantiCiolfi/Algoritmos-y-Estructuras-de-Datos)
+<h2 align="center" style="color: #ffff;">Segundo año</h2>
+<div align="center" style="background-color: #F8D866;">
+  <a href="https://github.com/SantiCiolfi/Fundamentos-de-la-Organizacion-de-Datos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SantiCiolfi&repo=Fundamentos-de-la-Organizacion-de-Datos&theme=midnight-purple&icon_color=F8D866"></a>
+  <a href="https://github.com/SantiCiolfi/Algoritmos-y-Estructuras-de-Datos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SantiCiolfi&repo=Algoritmos-y-Estructuras-de-Datos&theme=midnight-purple&icon_color=17202A"></a>
+</div>
